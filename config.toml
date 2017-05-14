@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "brettgoss.github.io"
 languageCode = "en-us"
 title = "Brett Goss"
 theme = "hyde"
