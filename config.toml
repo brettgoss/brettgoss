@@ -1,7 +1,3 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Brett Goss"
-theme = "hyde"
-
-[params]
-  description = "Junior Web Developer Victoria, BC"
+title = "My New Hugo Site"
