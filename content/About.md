@@ -8,9 +8,8 @@ title = "About"
 
 +++
 
-## About Brett Goss
 My name is Brett Goss. I used to make coffee, and now I write code.
 
-I graduated in December of 2016 from Lighthouse Labs' Web Dev Bootcamp, and I have been working since January for a small agency in Victoria, BC called [PurposeSocial](http://purposesocial.com). Through them, I have worked on a number of projects, most notably a complete site rebuild for [Sitka Surf Co](https://sitka.ca).
+I graduated from [Lighthouse Labs](https://www.lighthouselabs.ca) in December of 2016, and spent the next six months working for an agency in Victoria, BC called [PurposeSocial](https://purposesocial.com). During that time, I worked primarily with [Sitka Surf Co.](https://sitka.ca) to rebuild their online Shopify Store, with a focus on both mobile and desktop usability, as well as improving conversions.
 
-I'm passionate about learning, whether technical or not, and if I'm not at work you'll probably find me either tinkering with my car or travelling around BC.
+I have more side projects than I'd like to admit - the most notable of which is [Plantia](http://plantia.io): a web app for keeping track of your houseplants' watering schedules. If you want to check out my code behind the scenes, here are Github links to [Plantia](https://github.com/Plantia/plantia-web), and of course [my own profile](https://github.com/brettgoss).
